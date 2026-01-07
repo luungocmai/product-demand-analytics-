@@ -30,17 +30,17 @@ The purpose of this project is to deliver clear insights, validated patterns, an
 
 Understanding sales drivers and cost behaviour enables the company to:
 
-* allocate inventory and staffing more efficiently
+* Allocate inventory and staffing more efficiently
 
-* set region-specific growth and performance strategies
+* Set region-specific growth and performance strategies
 
-* optimise product mix for margin expansion
+* Optimise product mix for margin expansion
 
-* reduce cost pressure from unprofitable customer segments
+* Reduce cost pressure from unprofitable customer segments
 
-* increase transaction value in major cities
+* Increase transaction value in major cities
 
-* improve NZ market performance through product realignment
+* Improve NZ market performance through product realignment
 
 This project directly supports sales strategy, customer retention, pricing decisions, and operational planning, ensuring LuminaTech can respond to performance gaps with evidence-based actions.
 
